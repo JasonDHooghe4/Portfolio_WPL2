@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+*::selection {
+    color: #FFF;
+    background-color: #024D9D;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #FFF;
+    background-color: #464646;
+}
+
+span {
+    color: #35D287;
+}
+a {
+    color: #FFF;
+    font-family: "Nunito", sans-serif;
+}
+nav ul li a:hover {
+    background-color: #4E4E4E;
+}
+#Titel li {
+    height: 50px;
+    width: 50px;
+}
+img {
+    max-width: 100%;
+}
+h1 {
+    font-size: 3.5rem;
+}
+h2 {
+    font-size: 2rem;
+}
+button {
+    color: #FFF;
+}
+.BG_Groen {
+    background-color: #35D287;
+}
+.Groen {
+    color: #35D287;
+}
+.BG_Grijs {
+    background-color: #4E4E4E;
+}
+.Skill_card {
+    background-color: #4E4E4E;
+    box-shadow: 7px -5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10%;
+}
+.Rating-bar1 {
+    background-color: #35D287;
+    height: 15px;
+    width: 20%;
+}
+.Rating-bar2 {
+    background-color: #35D287;
+    height: 15px;
+    width: 40%;
+}
+.Rating-bar3 {
+    background-color: #35D287;
+    height: 15px;
+    width: 60%;
+}
+.Rating-bar4 {
+    background-color: #35D287;
+    height: 15px;
+    width: 80%;
+}
+.Rating-container {
+    background-color: #D9D9D9;
+    height: 15px;
+    width: 100%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+.Titel {
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+}
+
+.tekst {
+    font-family: "Nunito", sans-serif;
+    font-weight: lighter;
+}
+
+
+
+
+
+
